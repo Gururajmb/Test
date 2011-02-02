@@ -28,7 +28,6 @@ public class LargestPalindromeRange {
                 }
             }
         }
-        System.out.println(answer);
         return answer;
     }
 
